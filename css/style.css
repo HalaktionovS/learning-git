@@ -2,4 +2,12 @@ body {
   font-family: serif;
 }
 
+.title{
+	font-size: 32px;
+	font-weight: bold;
+}
 
+.text{
+	font-style: italic;
+	max-width: 300px;
+}
