@@ -5,9 +5,11 @@ body {
 .title{
 	font-size: 52px;
 	font-weight: bold;
+	color: red;
 }
 
 .text{
 	font-style: italic;
-	max-width: 300px;
+	max-width: 600px;
+	
 }
